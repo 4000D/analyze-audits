@@ -1,0 +1,3 @@
+[submodule "kin/kin-token"]
+	path = kin/kin-token
+	url = https://github.com/kinfoundation/kin-token.git
